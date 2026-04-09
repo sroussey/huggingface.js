@@ -23,7 +23,7 @@
 		"fix-md-headinghashlinks": "tsx fix-md-headinghashlinks.ts"
 	},
 	"dependencies": {
-		"glob": "^9.2.1",
+		"glob": "^13.0.6",
 		"yaml": "^2.2.2"
 	},
 	"devDependencies": {
