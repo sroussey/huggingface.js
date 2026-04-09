@@ -27,7 +27,7 @@
 	"types": "./dist/index.d.ts",
 	"devDependencies": {
 		"@huggingface/splitmix64-wasm": "workspace:*",
-		"tsup": "^8.0.0",
+		"tsup": "^8.3.5",
 		"typescript": "^5.0.0"
 	},
 	"files": [
